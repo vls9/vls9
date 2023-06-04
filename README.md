@@ -3,4 +3,4 @@
 - 🛠️ I'm currently working on my custom dictionary app, Dictus
 - 🔬 I'm learning web dev with TypeScript, React and GraphQL
 - 🌱 I'm looking to collaborate on open knowledge projects
-- 📫 You can email me at [enchantingsoup.com](enchantingsoup.com)
+- 📫 You can email me at [mailto:enchantingsoup.com](enchantingsoup.com)
